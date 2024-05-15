@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 10,
+		"description": "Whitelist blocks to be editable/interactable inside claims from the FTB Chunks mod."
+	}
+}
