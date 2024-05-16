@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:shield",
+		"minecraft:firework_rocket",
+		"minecraft:map",
+		"minecraft:oak_door"
+	]
+}
