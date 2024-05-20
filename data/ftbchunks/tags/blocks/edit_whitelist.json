@@ -2,10 +2,6 @@
 	"replace": false,
 	"values": [
 		{
-			"id": "gravestone:gravestone",
-			"required": false
-		},
-		{
 			"id": "minecraft:grass_block",
 			"required": false
 		}
