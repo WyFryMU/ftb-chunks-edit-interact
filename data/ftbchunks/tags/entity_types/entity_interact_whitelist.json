@@ -2,10 +2,6 @@
   "replace": false,
   "values": [
     {
-      "id": "corpse:corpse",
-      "required": false
-    },
-    {
       "id": "minecraft:armor_stand",
       "required": false
     }
