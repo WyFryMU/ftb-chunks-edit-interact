@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "minecraft:armor_stand",
-      "required": false
-    }
-  ]
-}
